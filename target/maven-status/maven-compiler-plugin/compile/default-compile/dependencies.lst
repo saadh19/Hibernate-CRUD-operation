@@ -1,0 +1,5 @@
+classpath:C:\Users\ADMIN\.m2\repository\com\mysql\mysql-connector-j\26.7.0\mysql-connector-j-26.7.0.jar	2613206:1791696902348
+classpath:C:\Users\ADMIN\.m2\repository\com\google\protobuf\protobuf-java\4.31.1\protobuf-java-4.31.1.jar	1873183:1791696928444
+classpath:C:\Users\ADMIN\.m2\repository\org\hibernate\orm\hibernate-core\7.4.12.Final\hibernate-core-7.4.12.Final.jar	15334632:1791699159031
+classpath:C:\Users\ADMIN\.m2\repository\jakarta\persistence\jakarta.persistence-api\3.2.0\jakarta.persistence-api-3.2.0.jar	195939:1791699165067
+classpath:C:\Users\ADMIN\.m2\repository\jakarta\transaction\jakarta.transaction-api\2.0.1\jakarta.transaction-api-2.0.1.jar	28607:1791696903484
